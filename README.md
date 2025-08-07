@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Siomeow-meow
 - 👀 I’m interested in website developing
 - 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on (not sure)
 - 📫 How to reach me (dont)
 
